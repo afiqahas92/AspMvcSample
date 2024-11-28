@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-using VodusAssesmentMVC.Models;
-using VodusAssesmentMVC.Data;
+using AspMvcSample.Models;
+using AspMvcSample.Data;
 using Microsoft.EntityFrameworkCore;
 
-namespace VodusAssesmentMVC.Controllers
+namespace AspMvcSample.Controllers
 {
     public class ProductController : Controller
     {

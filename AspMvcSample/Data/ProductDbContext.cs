@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using VodusAssesmentMVC.Models;
+using AspMvcSample.Models;
 
-namespace VodusAssesmentMVC.Data;
+namespace AspMvcSample.Data;
 
 public partial class ProductDbContext : DbContext
 {

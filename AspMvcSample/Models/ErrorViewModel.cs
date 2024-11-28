@@ -1,4 +1,4 @@
-namespace VodusAssesmentMVC.Models
+namespace AspMvcSample.Models
 {
     public class ErrorViewModel
     {

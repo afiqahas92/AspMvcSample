@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using VodusAssesmentMVC.Data;
+using AspMvcSample.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 

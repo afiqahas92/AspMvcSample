@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace VodusAssesmentMVC.Models
+namespace AspMvcSample.Models
 {
     public class Product
     {

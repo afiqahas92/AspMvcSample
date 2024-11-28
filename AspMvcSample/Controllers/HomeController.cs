@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-using VodusAssesmentMVC.Models;
+using AspMvcSample.Models;
 
-namespace VodusAssesmentMVC.Controllers
+namespace AspMvcSample.Controllers
 {
     public class HomeController : Controller
     {
