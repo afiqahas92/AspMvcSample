@@ -1,3 +1,3 @@
-# VodusAssessment
+# ASP.NET MVC Sample Project
 
-This is for Vodus technical assessment only
+Basic MVC project.
